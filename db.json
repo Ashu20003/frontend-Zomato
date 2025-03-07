@@ -6,7 +6,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/3/2783/54c6475269a893c5e42b3add9702c1c0_featured_v2.jpg?output-format=webp" ,
             "name" : "Spectra" ,
             "variety" : "North Indian, Continental, Oriental, Japanese, Beverages" ,
-            "place" : "Ghaziabad" ,
+            "place" : "kukatpally" ,
             "rating" : "4.3" ,
             "price" : "1350"
         },
@@ -16,7 +16,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/9/20141509/e3e5348328988d887d3235d4d2c9414e_featured_v2.jpg?output-format=webp" ,
             "name" : "Khubani" ,
             "variety" : "Turkish, Modern Indian, Continental, Italian, Chinese, Desserts" ,
-            "place" : "Gurgaon" ,
+            "place" : "Hyderabad" ,
             "rating" : "4.7" ,
             "price" : "2480"
         },
@@ -56,7 +56,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/9/19552409/8f9c07f914aeb133c8989cb09e17b577_featured_v2.jpg" ,
             "name" : "MAD Music & Drinks" ,
             "variety" : "Pizza, Italian" ,
-            "place" : "Ghaziabad" ,
+            "place" : "suchitra" ,
             "rating" : "4.2" ,
             "price" : "1400"
         },
@@ -66,7 +66,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/9/18435799/cae34bf431906799b5f72921722df69a_featured_v2.jpg" ,
             "name" : "Cafe Delhi Heights" ,
             "variety" : "North Indian, European, Asian ,Beverages, Pizza, Fast Food" ,
-            "place" : "New Delhi" ,
+            "place" : "ikompally ,
             "rating" : "4.0" ,
             "price" : "1320"
         },
@@ -76,7 +76,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/6/18649486/ee45de4007529fb6a6222929a1502b54_featured_v2.jpg" ,
             "name" : "The Drunken Botanist" ,
             "variety" : "Continental, Italian, North Indian, Chinese" ,
-            "place" : "New Delhi" ,
+            "place" : "Hyderabad" ,
             "rating" : "3.4" ,
             "price" : "1350"
         },
@@ -86,7 +86,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/0/18896450/43369d22dedd4339246b33472de8bf17_featured_v2.jpg" ,
             "name" : "Comorin" ,
             "variety" : "North Indian, Pizza, Sushi, Healthy Food, Desserts" ,
-            "place" : "Gurgaon" ,
+            "place" : "Hyderabad" ,
             "rating" : "4.2" ,
             "price" : "1420"
         },
@@ -469,7 +469,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/pictures/chains/2/2532/2267ef82b019512eea9fb36efa096f16_o2_featured_v2.jpg?output-format=webp" ,
             "name" : "Brownie Hot Chocolate" ,
             "variety" : "Hand crafted Hot Chocolate Fudge sauce finds its soulmate in three scoops" ,
-            "place" : "New Delhi" ,
+            "place" : "Banjara hills" ,
             "rating" : "4.2" ,
             "price" : "200"
             
@@ -1701,7 +1701,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/7bb/3a5ee0417cb34c83afcfb8ecd99af7bb.jpg" ,
             "name" : "Creme Castle" ,
             "variety" : "Bakery, Desserts" ,
-            "place" : "Gurgaon" ,
+            "place" : "Banjara hills" ,
             "rating" : "4.2" ,
             "price" : "180"                
         },
@@ -1751,7 +1751,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/af6/432c26f4c1dd6fd0b9f41f87ce6a5af6.jpg" ,
             "name" : "Swiss Cake" ,
             "variety" : "Bakery" ,
-            "place" : "Ghaziabad",
+            "place" : "Banjara hills",
             "rating" : "4.0",
             "price" : "120"                
         },
@@ -2009,7 +2009,7 @@
         "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/bfa/9ae3cdb1c4ba0e2480c770d979facbfa.jpg" ,
         "name" : "Nirula's" ,
         "variety" : "Wraps, Fast Food, Mexican" ,
-        "place" : "New Delhi" ,
+        "place" : "Banjara hills" ,
         "rating" : "3.4" ,
         "price" : "150"
     },
@@ -2029,7 +2029,7 @@
         "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/4f9/c164f1abfc6b3e9ea4e67538c19074f9.jpg" ,
         "name" : "EatFit" ,
         "variety" : "Pizza, Pasta, Fast Food, Beverages, Desserts" ,
-        "place" : "New Delhi" ,
+        "place" : "Hyderabad" ,
         "rating" : "3.5" ,
         "price" : "260"
     },
@@ -2102,7 +2102,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/f39/2c0da4f66093790ac101f3d1d1808f39.jpg" ,
             "name" : "The Chaat Walk" ,
             "variety" : "Chaat ,Burger, Sandwich, Fast Food, Beverages" ,
-            "place" : "New Delhi" ,
+            "place" : "Hyderabad" ,
             "rating" : "4.1" ,
             "price" : "90"
         },
@@ -2132,7 +2132,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/8f0/f71e31b180d5a564baabf20151cc78f0.jpg" ,
             "name" : "Bikaner Sweets" ,
             "variety" : "Wraps, Fast Food, Mexican" ,
-            "place" : "New Delhi" ,
+            "place" : "Hyderabad" ,
             "rating" : "3.4" ,
             "price" : "80"
         },
@@ -2152,7 +2152,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/6a3/ccc2819391248da24428ff31cf6546a3.jpg" ,
             "name" : "Harish Bakery" ,
             "variety" : "Pizza, Pasta, Fast Food, Beverages, Desserts" ,
-            "place" : "New Delhi" ,
+            "place" : "Hyderabad" ,
             "rating" : "3.5" ,
             "price" : "60"
         },
@@ -2172,7 +2172,7 @@
             "imgUrl" : "https://b.zmtcdn.com/data/dish_photos/02d/27bdf788a990da1affbf87b00631502d.jpg" ,
             "name" : "Barfi Dhokla" ,
             "variety" : "Italian, Pizza, Pasta, Fast Food, Desserts, Beverages" ,
-            "place" : "Noida" ,
+            "place" : "Hyderabad" ,
             "rating" : "4.2" ,
             "price" : "80"
             
